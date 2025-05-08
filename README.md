@@ -18,7 +18,3 @@ It provides functionality for viewing league standings and schedules for the SED
 - **Frontend**: HTML / CSS / Bootstrap
 - **Database**: PostgreSQL
 - **Other Tools**: Git
-
-
-
--
